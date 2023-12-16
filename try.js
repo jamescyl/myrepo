@@ -1,1 +1,1 @@
-console.log("pppppppppp")
+console.log("10000")
